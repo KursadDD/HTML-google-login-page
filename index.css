@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  position: absolute;
+}
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline-block;
+}
+#sign-in {
+  background-color: rgba(0, 0, 255, 0.6);
+  color: white;
+  width: 120%;
+  height: 25px;
+  border-radius: 3px;
+}
+#sign-in:hover {
+  background-color: white;
+  color: rgba(0, 0, 255, 1);
+}
+#top-nav-left {
+  float: left;
+  margin-top: 2%;
+  margin-left: 1%;
+}
+
+#top-nav-right {
+  float: right;
+  margin-top: 2%;
+  margin-left: 79%;
+}
+#ninepoint {
+  padding-right: 6px;
+  vertical-align: middle;
+  opacity: 0.5;
+}
+#ninepoint:hover {
+  opacity: 1;
+}
+#main-div {
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+#bottom-nav-left {
+  float: left;
+  margin-top: 45%;
+  margin-left: 1%;
+}
+#turkey {
+  float: left;
+  margin-top: 43%;
+  margin-left: 2%;
+}
+
+#bottom-nav-right {
+  float: right;
+  margin-top: 45%;
+  margin-left: 85%;
+}
+#microphone {
+  width: 10px;
+}
+
+#magnifying_glass {
+  width: 20px;
+}
+#search-div {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  width: 170%;
+  height: 30%;
+  margin-left: -35%;
+}
+#text {
+  border: none;
+  outline: none;
+  width: 80%;
+  height: 70%;
+  margin-left: 7%;
+  margin-top: 2px;
+}
+#magnifying_glass {
+  position: relative;
+  right: 87%;
+  top: 19%;
+}
+#keyboard {
+  position: relative;
+  right: 7%;
+  width: 12px;
+}
+#microphone {
+  position: relative;
+  left: 2%;
+  top: 10%;
+  width: 12px;
+}
+#button-div {
+  margin-top: 25px;
+}
+
+#button-div {
+  position: absolute;
+  top: 120%;
+  left: -70px;
+  width: 400px;
+  height: 70px;
+}
+#button1 {
+  position: absolute;
+  left: 20%;
+  height: 25px;
+  background-color: #f2f2f2;
+  border: none;
+}
+#button2 {
+  position: absolute;
+  left: 45%;
+  height: 25px;
+  background-color: #f2f2f2;
+  border: none;
+}
+#button1:hover,
+#button2:hover {
+  background-color: #fff5f5;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+#paragraf {
+  line-height: 95px;
+  text-align: center;
+}
+a {
+  margin: 7px;
+  font-size: small;
+}
+
+a:link {
+  text-decoration: none;
+}
+#turkey {   
+    padding-left: 20px;
+    position: relative;
+    left: -35px;
+    font-size: small;
+    display: block;
+    
+    width: 1340px;
+    height: 30px;
+    background-color: #f2f2f2;
+  }
+  #bottom-nav-left{
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 610px;
+    width: 1350px;
+    height: 40px;
+  }
+  #bottom-nav-right{
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 610px;
+    width: 200px;
+    left: 1000px;
+    text-align: right;
+    height: 40px;
+  }
+
+ 
